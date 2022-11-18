@@ -1,0 +1,59 @@
+==================================================
+file name: CpSilv_core_only.fasta   
+sequences:             5
+total length:   27841633 bp  (27841633 bp excl N/X-runs)
+GC level:         46.53 %
+bases masked:    4666297 bp ( 16.76 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         1684      3107259 bp   11.16 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:              265       373595 bp    1.34 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex          0            0 bp    0.00 %
+     R1/LOA/Jockey      37        30434 bp    0.11 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4             2         2299 bp    0.01 %
+   LTR elements:      1419      2733664 bp    9.82 %
+     BEL/Pao             0            0 bp    0.00 %
+     Ty1/Copia         211       216070 bp    0.78 %
+     Gypsy/DIRS1      1166      2431266 bp    8.73 %
+       Retroviral       14        15637 bp    0.06 %
+
+DNA transposons        760       780019 bp    2.80 %
+   hobo-Activator       63       123024 bp    0.44 %
+   Tc1-IS630-Pogo      577       506972 bp    1.82 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles          0            0 bp    0.00 %
+
+Unclassified:          412       433863 bp    1.56 %
+
+Total interspersed repeats:     4321141 bp   15.52 %
+
+
+Small RNA:              18        25051 bp    0.09 %
+
+Satellites:              0            0 bp    0.00 %
+Simple repeats:       6760       250570 bp    0.90 %
+Low complexity:       1326        69535 bp    0.25 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , default mode
+                                     
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in "Cpos_C735_refTEs.fa.classified"
+FamDB: 
