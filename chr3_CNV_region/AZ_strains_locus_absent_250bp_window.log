@@ -1,0 +1,25 @@
+
+VCFtools - 0.1.17
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf ../isolate_and_pop_info/all_strains_variant_sites.renamed.vcf
+	--keep AZ_strains_locus_absent.txt
+	--max-missing 1
+	--out AZ_strains_locus_absent_250bp_window
+	--window-pi 250
+	--window-pi-step 250
+
+Warning: Expected at least 2 parts in INFO entry: ID=BC,Number=4,Type=Integer,Description="Count of As, Cs, Gs, Ts at locus">
+Warning: Expected at least 2 parts in INFO entry: ID=BC,Number=4,Type=Integer,Description="Count of As, Cs, Gs, Ts at locus">
+Warning: Expected at least 2 parts in INFO entry: ID=BC,Number=4,Type=Integer,Description="Count of As, Cs, Gs, Ts at locus">
+Warning: Expected at least 2 parts in INFO entry: ID=QP,Number=4,Type=Integer,Description="Percentage of As, Cs, Gs, Ts weighted by Q & MQ at locus">
+Warning: Expected at least 2 parts in INFO entry: ID=QP,Number=4,Type=Integer,Description="Percentage of As, Cs, Gs, Ts weighted by Q & MQ at locus">
+Warning: Expected at least 2 parts in INFO entry: ID=QP,Number=4,Type=Integer,Description="Percentage of As, Cs, Gs, Ts weighted by Q & MQ at locus">
+Warning: Expected at least 2 parts in INFO entry: ID=AC,Number=A,Type=Integer,Description="Allele count in genotypes, for each ALT allele, in the same order as listed">
+Warning: Expected at least 2 parts in INFO entry: ID=AC,Number=A,Type=Integer,Description="Allele count in genotypes, for each ALT allele, in the same order as listed">
+Keeping individuals in 'keep' list
+After filtering, kept 19 out of 61 Individuals
+Outputting Windowed Nucleotide Diversity Statistics...
+After filtering, kept 360743 out of a possible 1012365 Sites
+Run Time = 16.00 seconds

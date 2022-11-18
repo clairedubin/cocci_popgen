@@ -1,0 +1,42 @@
+window_number,gene,chrom,start,stop,annotation,expression (Mandel et al 2022)
+1,D8B26_001876,1,6349634,6350935,ID=gene-D8B26_001876;Name=D8B26_001876;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_001876,hyphae_upreg
+1,D8B26_001877,1,6351177,6352680,ID=gene-D8B26_001877;Name=D8B26_001877;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_001877,hyphae_upreg
+1,D8B26_001878,1,6353558,6355557,ID=gene-D8B26_001878;Name=D8B26_001878;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_001878,hyphae_upreg
+1,D8B26_001879,1,6356168,6357163,ID=gene-D8B26_001879;Name=D8B26_001879;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_001879,hyphae_upreg
+1,D8B26_001880,1,6357197,6357765,ID=gene-D8B26_001880;Name=D8B26_001880;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_001880,hyphae_upreg
+1,D8B26_001881,1,6358135,6360817,ID=gene-D8B26_001881;Name=D8B26_001881;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_001881,no upreg
+1,D8B26_001882,1,6361254,6363358,ID=gene-D8B26_001882;Name=D8B26_001882;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_001882,no upreg
+1,D8B26_001883,1,6364194,6366088,ID=gene-D8B26_001883;Name=D8B26_001883;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_001883,no upreg
+1,D8B26_001884,1,6366359,6367480,ID=gene-D8B26_001884;Name=D8B26_001884;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_001884,no upreg
+1,D8B26_001885,1,6368462,6371059,ID=gene-D8B26_001885;Name=CTR86;gbkey=Gene;gene=CTR86;gene_biotype=protein_coding;locus_tag=D8B26_001885,no upreg
+1,D8B26_001886,1,6371771,6373221,ID=gene-D8B26_001886;Name=D8B26_001886;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_001886,hyphae_upreg
+1,D8B26_001887,1,6373545,6375643,ID=gene-D8B26_001887;Name=D8B26_001887;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_001887,no upreg
+2,D8B26_002751,2,751098,752848,ID=gene-D8B26_002751;Name=D8B26_002751;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_002751,hyphae_upreg
+2,D8B26_002752,2,753626,755131,ID=gene-D8B26_002752;Name=D8B26_002752;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_002752,hyphae_upreg
+2,D8B26_002753,2,757452,759395,ID=gene-D8B26_002753;Name=D8B26_002753;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_002753,hyphae_upreg
+2,D8B26_002754,2,758914,761070,ID=gene-D8B26_002754;Name=D8B26_002754;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_002754,hyphae_upreg
+2,D8B26_002755,2,761766,763205,ID=gene-D8B26_002755;Name=D8B26_002755;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_002755,hyphae_upreg
+2,D8B26_002756,2,763216,766020,ID=gene-D8B26_002756;Name=D8B26_002756;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_002756,hyphae_upreg
+2,D8B26_002757,2,766510,768793,ID=gene-D8B26_002757;Name=D8B26_002757;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_002757,hyphae_upreg
+2,D8B26_002758,2,769338,771117,ID=gene-D8B26_002758;Name=D8B26_002758;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_002758,hyphae_upreg
+2,D8B26_002759,2,771792,772641,ID=gene-D8B26_002759;Name=D8B26_002759;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_002759,hyphae_upreg
+3,D8B26_003839,2,4299735,4302122,ID=gene-D8B26_003839;Name=D8B26_003839;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_003839,spherule_upreg
+3,D8B26_003840,2,4302492,4303312,ID=gene-D8B26_003840;Name=D8B26_003840;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_003840,hyphae_upreg
+3,D8B26_003842,2,4305546,4307062,ID=gene-D8B26_003842;Name=D8B26_003842;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_003842,hyphae_upreg
+3,D8B26_003843,2,4307225,4308289,ID=gene-D8B26_003843;Name=RPS21;gbkey=Gene;gene=RPS21;gene_biotype=protein_coding;locus_tag=D8B26_003843,no upreg
+3,D8B26_003844,2,4308456,4310391,ID=gene-D8B26_003844;Name=FRS2;gbkey=Gene;gene=FRS2;gene_biotype=protein_coding;locus_tag=D8B26_003844,no upreg
+3,D8B26_003845,2,4310708,4312633,ID=gene-D8B26_003845;Name=D8B26_003845;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_003845,hyphae_upreg
+3,D8B26_003847,2,4316942,4318594,ID=gene-D8B26_003847;Name=D8B26_003847;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_003847,hyphae_upreg
+3,D8B26_003848,2,4319531,4321053,ID=gene-D8B26_003848;Name=D8B26_003848;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_003848,hyphae_upreg
+3,D8B26_003849,2,4322424,4324220,ID=gene-D8B26_003849;Name=D8B26_003849;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_003849,hyphae_upreg
+3,D8B26_003850,2,4324775,4324975,ID=gene-D8B26_003850;Name=D8B26_003850;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_003850,no upreg
+4,D8B26_004711,2,7024914,7026078,ID=gene-D8B26_004711;Name=D8B26_004711;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_004711,hyphae_upreg
+4,D8B26_004712,2,7026475,7028052,ID=gene-D8B26_004712;Name=D8B26_004712;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_004712,no upreg
+4,D8B26_004713,2,7028617,7032429,ID=gene-D8B26_004713;Name=D8B26_004713;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_004713,no upreg
+4,D8B26_004715,2,7033023,7034590,ID=gene-D8B26_004715;Name=LAP1_1;gbkey=Gene;gene=LAP1_1;gene_biotype=protein_coding;locus_tag=D8B26_004715,hyphae_upreg
+4,D8B26_004716,2,7035840,7036546,ID=gene-D8B26_004716;Name=D8B26_004716;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_004716,no upreg
+4,D8B26_004717,2,7036711,7038471,ID=gene-D8B26_004717;Name=D8B26_004717;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_004717,hyphae_upreg
+4,D8B26_004718,2,7039826,7041272,ID=gene-D8B26_004718;Name=D8B26_004718;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_004718,hyphae_upreg
+4,D8B26_004719,2,7041634,7042262,ID=gene-D8B26_004719;Name=D8B26_004719;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_004719,hyphae_upreg
+4,D8B26_004720,2,7043043,7047115,ID=gene-D8B26_004720;Name=CHS2_2;gbkey=Gene;gene=CHS2_2;gene_biotype=protein_coding;locus_tag=D8B26_004720,hyphae_upreg
+4,D8B26_004721,2,7046589,7049942,ID=gene-D8B26_004721;Name=D8B26_004721;gbkey=Gene;gene_biotype=protein_coding;locus_tag=D8B26_004721,hyphae_upreg

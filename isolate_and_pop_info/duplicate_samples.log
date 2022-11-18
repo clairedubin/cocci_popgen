@@ -1,0 +1,24 @@
+
+VCFtools - 0.1.17
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf /Users/clairedubin/cocci/strain_sequencing/CpSilv_core_mapped/other_pops/all_strains_merged_all_valid_sites.renamed.vcf.gz
+	--keep duplicate_samples.txt
+	--depth
+	--out duplicate_samples
+
+Using zlib version: 1.2.11
+Warning: Expected at least 2 parts in INFO entry: ID=BC,Number=4,Type=Integer,Description="Count of As, Cs, Gs, Ts at locus">
+Warning: Expected at least 2 parts in INFO entry: ID=BC,Number=4,Type=Integer,Description="Count of As, Cs, Gs, Ts at locus">
+Warning: Expected at least 2 parts in INFO entry: ID=BC,Number=4,Type=Integer,Description="Count of As, Cs, Gs, Ts at locus">
+Warning: Expected at least 2 parts in INFO entry: ID=QP,Number=4,Type=Integer,Description="Percentage of As, Cs, Gs, Ts weighted by Q & MQ at locus">
+Warning: Expected at least 2 parts in INFO entry: ID=QP,Number=4,Type=Integer,Description="Percentage of As, Cs, Gs, Ts weighted by Q & MQ at locus">
+Warning: Expected at least 2 parts in INFO entry: ID=QP,Number=4,Type=Integer,Description="Percentage of As, Cs, Gs, Ts weighted by Q & MQ at locus">
+Warning: Expected at least 2 parts in INFO entry: ID=AC,Number=A,Type=Integer,Description="Allele count in genotypes, for each ALT allele, in the same order as listed">
+Warning: Expected at least 2 parts in INFO entry: ID=AC,Number=A,Type=Integer,Description="Allele count in genotypes, for each ALT allele, in the same order as listed">
+Keeping individuals in 'keep' list
+After filtering, kept 11 out of 61 Individuals
+Outputting Mean Depth by Individual
+After filtering, kept 27931432 out of a possible 27931432 Sites
+Run Time = 201.00 seconds

@@ -1,0 +1,11 @@
+,threshold_tested,p_val
+PI_present_upstream,0.00614737,0.2926
+PI_absent_upstream,0.00505263,0.4055
+WEIGHTED_FST_upstream,0.0420787,0.7775
+TajimaD_present_upstream,-1.003,0.0675
+TajimaD_absent_upstream,-1.25802,0.5038
+PI_present_downstream,0.0048,0.5239
+PI_absent_downstream,0.00669132,0.198
+WEIGHTED_FST_downstream,0.0686275,0.7124
+TajimaD_present_downstream,-0.948945,0.1454
+TajimaD_absent_downstream,-1.37697,0.2305
